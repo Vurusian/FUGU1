@@ -19,7 +19,7 @@
    - You will get a session ID in WhatsApp, copy the ID only.
 ---
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
-   - ***Now [DEPLOY](https://dashboard.heroku.com/new?template=https://github.com/Temitopeareo/FUGU1).***
+   - ***Now [DEPLOY](https://dashboard.heroku.com/new?template=https://github.com/Vurusian/Virusi-Mbaya-Md).***
 ---
 
 ## Contributions.  
@@ -33,6 +33,7 @@ The Abrotech-Bot is released under the [MIT License](https://opensource.org/lice
 Enjoy the diverse features of the Abrotech-Bot to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
-- [**`WhatsApp`**](https://wa.me/2348100151048)
+- [**`WhatsApp`**](https://wa.me/254748721079)
 
 ### CREDIT
+Virusi 🦠 Mbaya
